@@ -1,2 +1,2 @@
 # calculator
-professional calculator useing javascript ,html and css
+professional calculator using javascript ,html and css
